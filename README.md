@@ -9,3 +9,4 @@ Modo de inicializar:
 - Definir Gol.Api como StartUp Project 
 - Em package manager console executar comando "Update-Database" para gerar as tabelas em banco SQL LOCAL
 - Rodar projeto Gol.Api
+- Sistema deverá rodar sobre https://localhost:5001/
