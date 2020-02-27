@@ -1,0 +1,94 @@
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\bin\Debug\netcoreapp3.0\Gol.Api.exe
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\bin\Debug\netcoreapp3.0\Gol.Api.deps.json
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\bin\Debug\netcoreapp3.0\Gol.Api.runtimeconfig.json
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\bin\Debug\netcoreapp3.0\Gol.Api.runtimeconfig.dev.json
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\bin\Debug\netcoreapp3.0\Gol.Api.dll
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\bin\Debug\netcoreapp3.0\Gol.Api.pdb
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\bin\Debug\netcoreapp3.0\AutoMapper.dll
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\bin\Debug\netcoreapp3.0\FluentValidation.dll
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\bin\Debug\netcoreapp3.0\IdentityModel.dll
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\bin\Debug\netcoreapp3.0\Remotion.Linq.dll
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\bin\Debug\netcoreapp3.0\System.Interactive.Async.dll
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\bin\Debug\netcoreapp3.0\Gol.Business.dll
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\bin\Debug\netcoreapp3.0\Gol.Data.dll
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\bin\Debug\netcoreapp3.0\Gol.Business.pdb
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\bin\Debug\netcoreapp3.0\Gol.Data.pdb
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\obj\Debug\netcoreapp3.0\Gol.Api.csprojAssemblyReference.cache
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\obj\Debug\netcoreapp3.0\staticwebassets\Gol.Api.StaticWebAssets.Manifest.cache
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\obj\Debug\netcoreapp3.0\staticwebassets\Gol.Api.StaticWebAssets.xml
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\obj\Debug\netcoreapp3.0\Gol.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\obj\Debug\netcoreapp3.0\Gol.Api.AssemblyInfoInputs.cache
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\obj\Debug\netcoreapp3.0\Gol.Api.AssemblyInfo.cs
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\obj\Debug\netcoreapp3.0\Gol.Api.RazorTargetAssemblyInfo.cache
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\obj\Debug\netcoreapp3.0\Gol.Api.csproj.CopyComplete
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\obj\Debug\netcoreapp3.0\Gol.Api.dll
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Api\obj\Debug\netcoreapp3.0\Gol.Api.pdb
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\bin\Debug\netcoreapp3.0\Gol.Api.exe
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\bin\Debug\netcoreapp3.0\Gol.Api.deps.json
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\bin\Debug\netcoreapp3.0\Gol.Api.runtimeconfig.json
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\bin\Debug\netcoreapp3.0\Gol.Api.runtimeconfig.dev.json
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\bin\Debug\netcoreapp3.0\Gol.Api.dll
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\bin\Debug\netcoreapp3.0\Gol.Api.pdb
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\bin\Debug\netcoreapp3.0\AutoMapper.dll
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\bin\Debug\netcoreapp3.0\FluentValidation.dll
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\bin\Debug\netcoreapp3.0\IdentityModel.dll
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\bin\Debug\netcoreapp3.0\Remotion.Linq.dll
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\bin\Debug\netcoreapp3.0\System.Interactive.Async.dll
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\bin\Debug\netcoreapp3.0\Gol.Business.dll
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\bin\Debug\netcoreapp3.0\Gol.Data.dll
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\bin\Debug\netcoreapp3.0\Gol.Business.pdb
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\bin\Debug\netcoreapp3.0\Gol.Data.pdb
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\obj\Debug\netcoreapp3.0\Gol.Api.csprojAssemblyReference.cache
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\obj\Debug\netcoreapp3.0\staticwebassets\Gol.Api.StaticWebAssets.Manifest.cache
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\obj\Debug\netcoreapp3.0\staticwebassets\Gol.Api.StaticWebAssets.xml
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\obj\Debug\netcoreapp3.0\Gol.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\obj\Debug\netcoreapp3.0\Gol.Api.AssemblyInfoInputs.cache
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\obj\Debug\netcoreapp3.0\Gol.Api.AssemblyInfo.cs
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\obj\Debug\netcoreapp3.0\Gol.Api.RazorTargetAssemblyInfo.cache
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\obj\Debug\netcoreapp3.0\Gol.Api.csproj.CopyComplete
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\obj\Debug\netcoreapp3.0\Gol.Api.dll
+C:\Users\augusto.santos\Desktop\Api-Gol\src\Gol.Api\obj\Debug\netcoreapp3.0\Gol.Api.pdb

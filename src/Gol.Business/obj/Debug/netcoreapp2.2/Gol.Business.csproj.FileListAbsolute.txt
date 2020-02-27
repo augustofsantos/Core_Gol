@@ -1,0 +1,15 @@
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\DevIO.Business\bin\Debug\netcoreapp2.2\Gol.Business.deps.json
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\DevIO.Business\bin\Debug\netcoreapp2.2\Gol.Business.dll
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\DevIO.Business\bin\Debug\netcoreapp2.2\Gol.Business.pdb
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\DevIO.Business\obj\Debug\netcoreapp2.2\Gol.Business.csprojAssemblyReference.cache
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\DevIO.Business\obj\Debug\netcoreapp2.2\Gol.Business.AssemblyInfoInputs.cache
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\DevIO.Business\obj\Debug\netcoreapp2.2\Gol.Business.AssemblyInfo.cs
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\DevIO.Business\obj\Debug\netcoreapp2.2\Gol.Business.dll
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\DevIO.Business\obj\Debug\netcoreapp2.2\Gol.Business.pdb
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Business\bin\Debug\netcoreapp2.2\Gol.Business.deps.json
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Business\bin\Debug\netcoreapp2.2\Gol.Business.dll
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Business\bin\Debug\netcoreapp2.2\Gol.Business.pdb
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Business\obj\Debug\netcoreapp2.2\Gol.Business.AssemblyInfoInputs.cache
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Business\obj\Debug\netcoreapp2.2\Gol.Business.AssemblyInfo.cs
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Business\obj\Debug\netcoreapp2.2\Gol.Business.dll
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\Gol.Business\obj\Debug\netcoreapp2.2\Gol.Business.pdb

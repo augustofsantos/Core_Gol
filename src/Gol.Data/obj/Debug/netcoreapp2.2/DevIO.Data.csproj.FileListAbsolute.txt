@@ -1,0 +1,13 @@
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.deps.json
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.runtimeconfig.json
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.runtimeconfig.dev.json
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.dll
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.pdb
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csprojAssemblyReference.cache
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfoInputs.cache
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfo.cs
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CopyComplete
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.dll
+C:\Users\augusto.santos\Downloads\API Sem Autenticacao\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.pdb
